@@ -1,9 +1,9 @@
 {
     "name": "RUSLocalSomeMods",
-    "version": "1.1.0",
+    "version": "2.0.0",
     "title": "RUSLocalSomeMods",
     "author": "fangot",
-    "factorio_version": "1.1",
+    "factorio_version": "2.0",
     "description": "Russian localization for some mods. Перевод некоторых модов на русский язык. Все моды указаны в списке ниже.",
     "dependencies": [
         "? aai-containers",
